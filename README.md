@@ -1,6 +1,8 @@
 # weather-cron
 
-Example project showcasing Workers Cron Triggers, by getting the weather in your area and sending it using a Telegram bot.
+Example project showcasing **Workers Cron Triggers**, by getting the weather in your area and sending it using a Telegram bot.
+
+![Convo](./.github/convo.png)
 
 ## Setup
 
