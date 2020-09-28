@@ -1,0 +1,23 @@
+{
+  "private": true,
+  "name": "weather-cron",
+  "version": "1.0.0",
+  "description": "A template for kick starting a Cloudflare Workers project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write '**/*.{js,css,json,md}'"
+  },
+  "author": "Kristian Freeman <kristian@kristianfreeman.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  },
+  "dependencies": {
+    "messaging-api-telegram": "^1.0.1",
+    "openweather-apis": "^4.3.1",
+    "slimbot": "^4.9.0",
+    "telegraf": "^3.38.0",
+    "telegram-bot-api": "^2.0.1"
+  }
+}
